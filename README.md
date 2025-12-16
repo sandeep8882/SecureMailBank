@@ -1,2 +1,2 @@
 # SecureMailBank
-Use testing purpose for landing page
+Use testing purpose
